@@ -47,11 +47,11 @@ This module provides type constraints from L<Sah::Schemas::Firefox>:
 
 =item * FirefoxProfileName
 
-From L<Sah::Schema::firefox::profile_name>. Firefox profile nme.
+From L<Sah::Schema::firefox::profile_name>. Firefox profile name.
 
 =item * FirefoxLocalProfileName
 
-From L<Sah::Schema::firefox::profile_name>. Firefox profile nme, must exist in
+From L<Sah::Schema::firefox::profile_name>. Firefox profile name, must exist in
 local Firefox installation.
 
 =back
