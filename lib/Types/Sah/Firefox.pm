@@ -2,11 +2,11 @@ package Types::Sah::Firefox;
 
 use strict;
 use warnings;
-use Type::Library -base;
 
 use Data::Sah;
 use Sah::Schema::firefox::profile_name;
 use Sah::Schema::firefox::local_profile_name;
+use Type::Library -base;
 
 # AUTHORITY
 # DATE
