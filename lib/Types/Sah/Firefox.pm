@@ -25,7 +25,7 @@ __PACKAGE__->add_type(
 );
 
 1;
-# ABSTRACT: Various Sah schemas related to Firefox
+# ABSTRACT: Type constraints related to Firefox
 
 =head1 SYNOPSIS
 
